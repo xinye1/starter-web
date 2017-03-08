@@ -19,3 +19,8 @@ Sample website with plenty of files for training demos.
 ## How to contribute
 
 Please fork this repository and then issue Pull Requests for review.
+
+
+## Changes
+
+* 08/03/2017 changed README.md on master, and something on feature branch (for rebase example)
