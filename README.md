@@ -14,4 +14,7 @@ Sample website with plenty of files for training demos.
 
 ## Deployment
 
+2017 Git.Training.
+
 ## How to contribute
+
