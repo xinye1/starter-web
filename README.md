@@ -25,3 +25,7 @@ Please fork this repository and then issue Pull Requests for review.
 
 * 08/03/2017 changed README.md on master, and something on feature branch (for rebase example)
 * 08/03/2017 (on feature branch) added thanks section in humans.txt file (rebased on feature)
+
+## Copyright
+
+2014 Xinye co.
