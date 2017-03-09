@@ -9,6 +9,7 @@
 # THANKS
 
     All my students!
+    Some self-serving message by the course instructor!
 
 # TECHNOLOGY COLOPHON
 
